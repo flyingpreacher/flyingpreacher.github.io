@@ -56,3 +56,7 @@ IT WORKED!! 😂<br>
 I am creating this page now from my new Docker container. 
 <br><br>
 It took a few minutes, but I enjoyed creating this post. Hopefully, I have written something that will help you as well. Thanks, and I will see you next time!
+
+EDIT: Hold up. Everything is NOT fixed. Github Actions is not publishing my site to GitHub pages. 
+<br>
+You know what I had to do? Rebuild my old site from the chirpy-starter repo. I am going to make a blog entry for that soon. Thanks again for reading!!
