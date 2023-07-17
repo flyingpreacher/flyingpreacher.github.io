@@ -28,3 +28,5 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem "jekyll", "~> 4"
+
+gem 'jekyll-compose', group: [:jekyll_plugins]
